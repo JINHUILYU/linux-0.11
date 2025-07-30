@@ -5,3 +5,8 @@
 *out
 /comment
 /tags
+
+.vscode
+__pycache__
+.DS_Store
+.idea
